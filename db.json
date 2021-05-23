@@ -2,16 +2,19 @@
 "posts": [
 {
 "id": 1,
+ "name": "Ankush Sharma",
 "title": "Post 1",
 "description": "this is description 1"
 },
 {
 "id": 2,
+"name": "Aayush Sharma",
 "title": "Post 2",
 "description": "this is description 2"
 },
 {
 "id": 3,
+"name" : "Pranav Jaiswal",
 "title": "Post 3",
 "description": "this is description 3"
 }
