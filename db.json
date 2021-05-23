@@ -4,7 +4,7 @@
  "name": "Ankush Sharma",
 "title": "Post 1",
 "description": "this is description 1",
- "comments": ['hi', 'hello','Congratulations'],
+ "comments": ["hi", "hello"],
  "like": 5
 },
 {
@@ -12,7 +12,7 @@
 "name": "Aayush Sharma",
 "title": "Post 2",
 "description": "this is description 2",
- "comments": ['hi', 'hello','Congratulations','bye'],
+  "comments": ["hi", "hello","Congratulations"],
  "like": 10
 },
 {
@@ -20,7 +20,7 @@
 "name" : "Pranav Jaiswal",
 "title": "Post 3",
 "description": "this is description 3",
- "comments": ['hi','Congratulations'],
+ "comments": ["hi", "hello","Congratulations", "hlw"],
  "like": 15
 },
  {
@@ -28,7 +28,7 @@
  "name": "Shreya Sachan",
 "title": "Post 4",
 "description": "this is description 4",
- "comments": ['hi', 'hello','Congratulations','bye'],
+ "comments": ["hi"],
  "like": 25
 },
  {
@@ -36,7 +36,7 @@
  "name": "Prachi Jaiswal",
 "title": "Post 5",
 "description": "this is description 5",
- "comments": ['hi', 'hello'],
+ "comments": ["hi", "hello","Congratulations","bye"],
  "like": 35
 }
 ]
