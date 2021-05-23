@@ -5,7 +5,7 @@
  "name": "Ankush Sharma",
 "title": "Post 1",
 "description": "this is description 1",
- "comments": ["hi", "hello"],
+ //"comments": ["hi", "hello"],
  "like": 5
 },
 {
@@ -13,7 +13,7 @@
 "name": "Aayush Sharma",
 "title": "Post 2",
 "description": "this is description 2",
-  "comments": ["hi", "hello","Congratulations"],
+ "comments": ["hi", "hello","Congratulations"],
  "like": 10
 },
 {
