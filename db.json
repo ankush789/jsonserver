@@ -4,8 +4,7 @@
 "id": 1,
  "name": "Ankush Sharma",
 "title": "Post 1",
-"description": "this is description 1",
- //"comments": ["hi", "hello"],
+"description": "this is description 1"
  "like": 5
 },
 {
