@@ -4,8 +4,9 @@
 "id": 1,
  "name": "Ankush Sharma",
 "title": "Post 1",
-"description": "this is description 1"
- "like": 5
+"description": "this is description 1",
+ "comments": ["hi", "hello","Congratulations"],
+ "like": "5"
 },
 {
 "id": 2,
@@ -13,7 +14,7 @@
 "title": "Post 2",
 "description": "this is description 2",
  "comments": ["hi", "hello","Congratulations"],
- "like": 10
+ "like": "10"
 },
 {
 "id": 3,
@@ -21,7 +22,7 @@
 "title": "Post 3",
 "description": "this is description 3",
  "comments": ["hi", "hello","Congratulations", "hlw"],
- "like": 15
+ "like": "15"
 },
  {
 "id": 4,
@@ -29,7 +30,7 @@
 "title": "Post 4",
 "description": "this is description 4",
  "comments": ["hi"],
- "like": 25
+ "like": "25"
 },
  {
 "id": 5,
@@ -37,6 +38,6 @@
 "title": "Post 5",
 "description": "this is description 5",
  "comments": ["hi", "hello","Congratulations","bye"],
- "like": 35
+ "like": "25"
 }]
 }
